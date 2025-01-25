@@ -3,13 +3,13 @@
 <h3 align="center">Welcome to my GitHub !!!! 🎀 Crafting Code, Connecting Worlds: Where Innovation Meets Open Source</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_839035-980257.jpg">
 
-- 👩‍🎓 Currently Studying: **Computer Science and Engineering at S.A Engineering collage Focused on Cybersecurity**
+- 👩‍🎓 Currently Studying: **Computer Science and Engineering at S.A Engineering collage Focused on Fullstack Development**
 
 - 🫂 Feel Free to Ask me about : **Python Devolpment,Java Devolpment and MySQL**
 
-- 🌱 Currently Cultivating Skills in: **Oracle SQL Devolpment and Ethical Hacking**
+- 🌱 Currently Cultivating Skills in: **Oracle SQL Devolpment and Reactjs**
 
-- 🤝 Seeking Guidance on : **Strengthening Network Security and Mastering Bug Boutry programs**
+- 🤝 Seeking Guidance on : **Strengthening guidance on DSA and problem solving ability**
 
 - 👀 Check out my Blog Here : [LinkedIn : https://www.linkedin.com/in/srimathi-s-04a6282a4]
 
